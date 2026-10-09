@@ -1,8 +1,8 @@
 {
-    "version": "1.0.3",
+    "version": "1.0.4",
     "notes": "Fix Update flow and add periods.",
-    "downloadUrl": "https://github.com/unidosenladiversidad5656-ux/insajo_updates/releases/tag/v1.0.3",
-    "windowsUrl": "https://github.com/unidosenladiversidad5656-ux/insajo_updates/releases/download/v1.0.3/INSAJO_Asistencia_V1.0.3_Windows.zip",
-    "androidUrl": "https://github.com/unidosenladiversidad5656-ux/insajo_updates/releases/download/v1.0.3/INSAJO_Asistencia_V1.0.3.apk",
+    "downloadUrl": "https://github.com/unidosenladiversidad5656-ux/insajo_updates/releases/tag/v1.0.4",
+    "windowsUrl": "https://github.com/unidosenladiversidad5656-ux/insajo_updates/releases/download/v1.0.4/INSAJO_Asistencia_V1.0.4_Windows.zip",
+    "androidUrl": "https://github.com/unidosenladiversidad5656-ux/insajo_updates/releases/download/v1.0.4/INSAJO_Asistencia_V1.0.4.apk",
     "mandatory": false
 }
