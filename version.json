@@ -1,8 +1,8 @@
 {
     "version": "1.0.1",
-    "notes": "Primera versi\u00f3n con actualizaci\u00f3n autom\u00e1tica en la nube.",
+    "notes": "Actualizaci\u00f3n Autom\u00e1tica v1.0.1",
     "downloadUrl": "https://github.com/unidosenladiversidad5656-ux/insajo_updates/releases/tag/v1.0.1",
-    "windowsUrl": "https://github.com/unidosenladiversidad5656-ux/insajo_updates/releases/download/v1.0.1/INSAJO_Asistencia_V13_Windows.zip",
+    "windowsUrl": "https://github.com/unidosenladiversidad5656-ux/insajo_updates/releases/download/v1.0.1/Release.zip",
     "androidUrl": "https://github.com/unidosenladiversidad5656-ux/insajo_updates/releases/download/v1.0.1/none.apk",
     "mandatory": false
 }
