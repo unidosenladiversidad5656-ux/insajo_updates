@@ -1,8 +1,8 @@
 {
-    "version": "1.0.8",
-    "notes": "Correccion scroll y permisos del docente",
-    "downloadUrl": "https://github.com/unidosenladiversidad5656-ux/insajo_updates/releases/tag/v1.0.8",
-    "windowsUrl": "https://github.com/unidosenladiversidad5656-ux/insajo_updates/releases/download/v1.0.8/INSAJO_Asistencia_V1.0.8_Windows.zip",
-    "androidUrl": "https://github.com/unidosenladiversidad5656-ux/insajo_updates/releases/download/v1.0.8/INSAJO_Asistencia_V1.0.8.apk",
+    "version": "1.0.9",
+    "notes": "Correccion busqueda, settings docente y nuevo alumno",
+    "downloadUrl": "https://github.com/unidosenladiversidad5656-ux/insajo_updates/releases/tag/v1.0.9",
+    "windowsUrl": "https://github.com/unidosenladiversidad5656-ux/insajo_updates/releases/download/v1.0.9/INSAJO_Asistencia_V1.0.9_Windows.zip",
+    "androidUrl": "https://github.com/unidosenladiversidad5656-ux/insajo_updates/releases/download/v1.0.9/INSAJO_Asistencia_V1.0.9.apk",
     "mandatory": false
 }
