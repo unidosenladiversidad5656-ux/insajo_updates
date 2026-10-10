@@ -1,8 +1,8 @@
 {
-    "version": "1.0.6",
-    "notes": "Arreglo del flujo de actualizacion automatico + optimizacion facial",
-    "downloadUrl": "https://github.com/unidosenladiversidad5656-ux/insajo_updates/releases/tag/v1.0.6",
-    "windowsUrl": "https://github.com/unidosenladiversidad5656-ux/insajo_updates/releases/download/v1.0.6/INSAJO_Asistencia_V1.0.6_Windows.zip",
-    "androidUrl": "https://github.com/unidosenladiversidad5656-ux/insajo_updates/releases/download/v1.0.6/INSAJO_Asistencia_V1.0.6.apk",
+    "version": "1.0.7",
+    "notes": "Arreglo final a la version hardcoded en settings",
+    "downloadUrl": "https://github.com/unidosenladiversidad5656-ux/insajo_updates/releases/tag/v1.0.7",
+    "windowsUrl": "https://github.com/unidosenladiversidad5656-ux/insajo_updates/releases/download/v1.0.7/INSAJO_Asistencia_V1.0.7_Windows.zip",
+    "androidUrl": "https://github.com/unidosenladiversidad5656-ux/insajo_updates/releases/download/v1.0.7/INSAJO_Asistencia_V1.0.7.apk",
     "mandatory": false
 }
