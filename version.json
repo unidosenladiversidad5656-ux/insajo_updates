@@ -1,8 +1,8 @@
 {
-    "version": "1.1.1",
-    "notes": "Arreglo de justificaciones virtuales y tama\u00f1o de calendario",
-    "downloadUrl": "https://github.com/unidosenladiversidad5656-ux/insajo_updates/releases/tag/v1.1.1",
-    "windowsUrl": "https://github.com/unidosenladiversidad5656-ux/insajo_updates/releases/download/v1.1.1/INSAJO_Asistencia_V1.1.1_Windows.zip",
-    "androidUrl": "https://github.com/unidosenladiversidad5656-ux/insajo_updates/releases/download/v1.1.1/INSAJO_Asistencia_V1.1.1.apk",
+    "version": "1.1.2",
+    "notes": "Versi\u00f3n 1.1.2: Bot\u00f3n flotante minimizable con icono de barra y arrastre a esquinas, visualizaci\u00f3n detallada de motivos en d\u00edas justificados virtuales, comedor con estad\u00edsticas de porcentaje general y por g\u00e9nero m\u00e1s men\u00fa de opciones para marcar/revertir reclamos individuales, y correcci\u00f3n integral de modo oscuro en Login y Registro.",
+    "downloadUrl": "https://github.com/unidosenladiversidad5656-ux/insajo_updates/releases/tag/v1.1.2",
+    "windowsUrl": "https://github.com/unidosenladiversidad5656-ux/insajo_updates/releases/download/v1.1.2/INSAJO_Asistencia_V1.1.2_Windows.zip",
+    "androidUrl": "https://github.com/unidosenladiversidad5656-ux/insajo_updates/releases/download/v1.1.2/INSAJO_Asistencia_V1.1.2.apk",
     "mandatory": false
 }
