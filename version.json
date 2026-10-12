@@ -1,8 +1,8 @@
 {
-    "version": "1.1.3",
-    "notes": "Versi\u00f3n 1.1.3: Sistema de actualizaci\u00f3n blindado con auto-reintentos multifase, cierre y reapertura de Explorador de Windows, renombrado autom\u00e1tico de carpeta e inicio del ejecutable actualizado.",
-    "downloadUrl": "https://github.com/unidosenladiversidad5656-ux/insajo_updates/releases/tag/v1.1.3",
-    "windowsUrl": "https://github.com/unidosenladiversidad5656-ux/insajo_updates/releases/download/v1.1.3/INSAJO_Asistencia_V1.1.3_Windows.zip",
+    "version": "1.1.4",
+    "notes": "Version 1.1.4: Calendario e historial individual de entrega de alimentos por estudiante, aislamiento total de asistencia regular, filtros y seleccion dinamica de fecha en entrega de alimentos.",
+    "downloadUrl": "https://github.com/unidosenladiversidad5656-ux/insajo_updates/releases/tag/v1.1.4",
+    "windowsUrl": "https://github.com/unidosenladiversidad5656-ux/insajo_updates/releases/download/v1.1.4/INSAJO_Asistencia_V1.1.4_Windows.zip",
     "androidUrl": "",
     "mandatory": false
 }
