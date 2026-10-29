@@ -1,8 +1,8 @@
 {
-    "version": "1.2.1",
-    "notes": "Versi\u00f3n 1.2.1: Actualizaci\u00f3n del sistema INSAJO Asistencia con permisos de Administrador, soporte de actualizaci\u00f3n in-situ y mejoras de rendimiento.",
-    "downloadUrl": "https://github.com/unidosenladiversidad5656-ux/insajo_updates/releases/tag/v1.2.1",
-    "windowsUrl": "https://github.com/unidosenladiversidad5656-ux/insajo_updates/releases/download/v1.2.1/INSAJO_Asistencia_V1.2.1_Windows.zip",
-    "androidUrl": "",
+    "version": "1.2.2",
+    "notes": "Novedades de la Versi\u00f3n 1.2.2 (Oficial):\n- \ud83d\udcc4 Exportaci\u00f3n Oficial a Word (.docx): Generaci\u00f3n de reporte formal con membrete INSAJO, datos de faltas y estilo institucional.\n- \ud83d\udcc5 Calendario y Cronolog\u00eda de Faltas por Alumno: Vista interactiva con selector de mes, d\u00edas marcados y desglose cronol\u00f3gico.\n- \ud83d\udc64 Gesti\u00f3n de Usuarios y Perfiles: Identificador / NIE editable con verificaci\u00f3n de no duplicidad y migraci\u00f3n segura de cuenta.\n- \ud83d\udd12 Permisos Estrictos de Incidencias: Docentes solo pueden borrar registros de hoy creados por ellos; Directores cuentan con bot\u00f3n de vaciado total con confirmaci\u00f3n de seguridad.\n- \ud83c\udfa8 Ajustes Visuales Ampliados: 8 paletas seleccionables (Azul INSAJO, Esmeralda, Oc\u00e9ano, Grafito AMOLED, P\u00farpura Nocturno, etc.) con contraste 100% en modo oscuro.",
+    "downloadUrl": "https://github.com/unidosenladiversidad5656-ux/insajo_updates/releases/tag/v1.2.2",
+    "windowsUrl": "https://github.com/unidosenladiversidad5656-ux/insajo_updates/releases/download/v1.2.2/INSAJO_Asistencia_V1.2.2_Windows.zip",
+    "androidUrl": "https://github.com/unidosenladiversidad5656-ux/insajo_updates/releases/download/v1.2.2/INSAJO_Asistencia_V1.2.2.apk",
     "mandatory": false
 }
