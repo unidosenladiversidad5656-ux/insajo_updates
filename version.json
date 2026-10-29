@@ -1,8 +1,8 @@
 {
-    "windowsUrl":  "https://github.com/unidosenladiversidad5656-ux/insajo_updates/releases/download/v1.2.0/INSAJO_Asistencia_V1.2.0_Windows.zip",
-    "version":  "1.2.0",
-    "androidUrl":  "",
-    "downloadUrl":  "https://github.com/unidosenladiversidad5656-ux/insajo_updates/releases/tag/v1.2.0",
-    "mandatory":  false,
-    "notes":  "Version 1.2.0: Selector granular de 9 estados de asistencia, escaner offline de camaras, modulo comedor con roles y busqueda, estadisticas avanzadas con podio, y actualizador automatico con permisos de Administrador."
+    "version": "1.2.1",
+    "notes": "Versi\u00f3n 1.2.1: Actualizaci\u00f3n del sistema INSAJO Asistencia con permisos de Administrador, soporte de actualizaci\u00f3n in-situ y mejoras de rendimiento.",
+    "downloadUrl": "https://github.com/unidosenladiversidad5656-ux/insajo_updates/releases/tag/v1.2.1",
+    "windowsUrl": "https://github.com/unidosenladiversidad5656-ux/insajo_updates/releases/download/v1.2.1/INSAJO_Asistencia_V1.2.1_Windows.zip",
+    "androidUrl": "",
+    "mandatory": false
 }
