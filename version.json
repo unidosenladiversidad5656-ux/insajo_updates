@@ -1,8 +1,8 @@
 {
-    "version": "1.1.4",
-    "notes": "Version 1.1.4: Icono en alta definicion, nombre INSAJO Asistencia, logo institucional restaurado, calendario e historial individual de alimentos por estudiante y filtros dinamicos.",
-    "downloadUrl": "https://github.com/unidosenladiversidad5656-ux/insajo_updates/releases/tag/v1.1.4",
-    "windowsUrl": "https://github.com/unidosenladiversidad5656-ux/insajo_updates/releases/download/v1.1.4/INSAJO_Asistencia_V1.1.4_Windows.zip",
-    "androidUrl": "",
-    "mandatory": false
+    "windowsUrl":  "https://github.com/unidosenladiversidad5656-ux/insajo_updates/releases/download/v1.2.0/INSAJO_Asistencia_V1.2.0_Windows.zip",
+    "version":  "1.2.0",
+    "androidUrl":  "",
+    "downloadUrl":  "https://github.com/unidosenladiversidad5656-ux/insajo_updates/releases/tag/v1.2.0",
+    "mandatory":  false,
+    "notes":  "Version 1.2.0: Selector granular de 9 estados de asistencia, escaner offline de camaras, modulo comedor con roles y busqueda, estadisticas avanzadas con podio, y actualizador automatico con permisos de Administrador."
 }
