@@ -1,11 +1,11 @@
 {
   "version": "1.2.4",
-  "notes": "Actualización V1.2.4:\n• Extracción de nómina oficial MINED para registro por lotes.\n• Opción de ordenar por Apellidos o Nombres en Ajustes.\n• Sincronización completa de periodos en calendario de deméritos.\n• Auto-limpieza de temporales al instalar.",
-  "downloadUrl": "https://github.com/unidosenladiversidad5656-ux/insajo_updates/releases/download/v1.2.4/INSAJO_Asistencia_V1.2.4_Windows.zip",
+  "build_number": 22,
   "windowsUrl": "https://github.com/unidosenladiversidad5656-ux/insajo_updates/releases/download/v1.2.4/INSAJO_Asistencia_V1.2.4_Windows.zip",
+  "downloadUrl": "https://github.com/unidosenladiversidad5656-ux/insajo_updates/releases/download/v1.2.4/INSAJO_Asistencia_V1.2.4_Windows.zip",
   "androidUrl": "https://github.com/unidosenladiversidad5656-ux/insajo_updates/releases/download/v1.2.4/INSAJO_Asistencia_V1.2.4.apk",
   "url": "https://github.com/unidosenladiversidad5656-ux/insajo_updates/releases/download/v1.2.4/INSAJO_Asistencia_V1.2.4_Windows.zip",
   "windows_url": "https://github.com/unidosenladiversidad5656-ux/insajo_updates/releases/download/v1.2.4/INSAJO_Asistencia_V1.2.4_Windows.zip",
   "android_url": "https://github.com/unidosenladiversidad5656-ux/insajo_updates/releases/download/v1.2.4/INSAJO_Asistencia_V1.2.4.apk",
-  "release_date": "2026-10-29"
+  "notes": "INSAJO Asistencia V1.2.4 (Build 22):\n- Registro por lote con doble tabla interactiva para Varones y Señoritas con botón de transferencia rápida (1 clic).\n- Marcadores de deméritos y visor de faltas en el calendario del perfil de cada alumno.\n- Ajuste en estadísticas: alertas disciplinarias (#1, #2, #3) en inasistencias en lugar de medallas de premiación.\n- Rediseño ejecutivo en cambio de contraseña y gestión de periodos lectivos.\n- Descarga e instalación automática optimizada."
 }
