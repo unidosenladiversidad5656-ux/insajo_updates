@@ -1,8 +1,8 @@
 {
-    "version":  "1.2.3",
-    "notes":  "ActualizaciÃ³n V1.2.3: SincronizaciÃ³n bidireccional de orientadores, reporte Word ejecutivo, filtro de periodos en demÃ©ritos, historial en secciones, selector de aÃ±o del sistema y nuevas paletas profesionales.",
-    "android_url":  "https://github.com/unidosenladiversidad5656-ux/insajo_updates/releases/download/v1.2.3/INSAJO_Asistencia_V1.2.3.apk",
-    "windows_url":  "https://github.com/unidosenladiversidad5656-ux/insajo_updates/releases/download/v1.2.3/INSAJO_Asistencia_V1.2.3_Windows.zip",
-    "url":  "https://github.com/unidosenladiversidad5656-ux/insajo_updates/releases/download/v1.2.3/INSAJO_Asistencia_V1.2.3_Windows.zip",
+    "version":  "1.2.4",
+    "notes":  "ActualizaciÃ³n V1.2.4: ExtracciÃ³n PDF oficial MINED para registro por lotes, opciÃ³n de ordenar por Apellidos o Nombres en Ajustes, sincronizaciÃ³n completa de periodos en calendario de demÃ©ritos y auto-limpieza de temporales.",
+    "android_url":  "https://github.com/unidosenladiversidad5656-ux/insajo_updates/releases/download/v1.2.4/INSAJO_Asistencia_V1.2.4.apk",
+    "windows_url":  "https://github.com/unidosenladiversidad5656-ux/insajo_updates/releases/download/v1.2.4/INSAJO_Asistencia_V1.2.4_Windows.zip",
+    "url":  "https://github.com/unidosenladiversidad5656-ux/insajo_updates/releases/download/v1.2.4/INSAJO_Asistencia_V1.2.4_Windows.zip",
     "release_date":  "2026-10-29"
 }
