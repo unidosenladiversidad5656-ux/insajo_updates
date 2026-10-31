@@ -1,8 +1,8 @@
 {
-    "version":  "1.2.4",
-    "notes":  "ActualizaciÃ³n V1.2.4: EscÃ¡ner QR anti-duplicados, cola rÃ¡pida de bienvenida, calendario histÃ³rico en secciones, banderas de periodo interactivas y monitoreo de equipos en lÃ­nea para administrador.",
-    "android_url":  "https://github.com/unidosenladiversidad5656-ux/insajo_updates/releases/download/v1.2.4/INSAJO_Asistencia_V1.2.4.apk",
-    "windows_url":  "https://github.com/unidosenladiversidad5656-ux/insajo_updates/releases/download/v1.2.4/INSAJO_Asistencia_V1.2.4_Windows.zip",
-    "url":  "https://github.com/unidosenladiversidad5656-ux/insajo_updates/releases/download/v1.2.4/INSAJO_Asistencia_V1.2.4_Windows.zip",
-    "release_date":  "2026-10-29"
+    "version":  "1.2.5",
+    "notes":  "ActualizaciÃ³n V1.2.5: Nombre institucional Instituto Nacional de San Jorge, multi-pestaÃ±a para equipos en lÃ­nea y desconectados, descargas pÃºblicas universales en Android, correcciÃ³n en exportaciÃ³n Word y diseÃ±o responsivo para mÃ³viles.",
+    "android_url":  "https://github.com/unidosenladiversidad5656-ux/insajo_updates/releases/download/v1.2.5/INSAJO_Asistencia_V1.2.5.apk",
+    "windows_url":  "https://github.com/unidosenladiversidad5656-ux/insajo_updates/releases/download/v1.2.5/INSAJO_Asistencia_V1.2.5_Windows.zip",
+    "url":  "https://github.com/unidosenladiversidad5656-ux/insajo_updates/releases/download/v1.2.5/INSAJO_Asistencia_V1.2.5_Windows.zip",
+    "release_date":  "2026-10-30"
 }
