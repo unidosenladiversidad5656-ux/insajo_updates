@@ -1,6 +1,9 @@
 {
-  "version": "1.2.6",
-  "downloadUrlWindows": "https://github.com/unidosenladiversidad5656-ux/insajo_updates/releases/download/v1.2.6/INSAJO_Asistencia_V1.2.6_Windows.zip",
-  "downloadUrlAndroid": "https://github.com/unidosenladiversidad5656-ux/insajo_updates/releases/download/v1.2.6/INSAJO_Asistencia_V1.2.6.apk",
-  "changelog": "VersiÃ³n 1.2.6: RestauraciÃ³n del menÃº inferior clÃ¡sico de Windows con espaciado completo y mantenimiento del menÃº responsivo deslizable en Android APK."
+  "version": "1.2.7",
+  "notes": "VersiÃ³n 1.2.7: Monitoreo en tiempo real reforzado con detecciÃ³n inmediata de reconexiÃ³n, latidos cada 30s, contador exclusivo para Administrador en la barra superior, correcciÃ³n en visualizaciÃ³n de fechas y visualizador de novedades mejorado.",
+  "changelog": "VersiÃ³n 1.2.7: Monitoreo en tiempo real reforzado con detecciÃ³n inmediata de reconexiÃ³n, latidos cada 30s, contador exclusivo para Administrador en la barra superior, correcciÃ³n en visualizaciÃ³n de fechas y visualizador de novedades mejorado.",
+  "downloadUrlWindows": "https://github.com/unidosenladiversidad5656-ux/insajo_updates/releases/download/v1.2.7/INSAJO_Asistencia_V1.2.7_Windows.zip",
+  "windowsUrl": "https://github.com/unidosenladiversidad5656-ux/insajo_updates/releases/download/v1.2.7/INSAJO_Asistencia_V1.2.7_Windows.zip",
+  "downloadUrlAndroid": "https://github.com/unidosenladiversidad5656-ux/insajo_updates/releases/download/v1.2.7/INSAJO_Asistencia_V1.2.7.apk",
+  "androidUrl": "https://github.com/unidosenladiversidad5656-ux/insajo_updates/releases/download/v1.2.7/INSAJO_Asistencia_V1.2.7.apk"
 }
