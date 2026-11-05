@@ -1,9 +1,9 @@
 {
-  "version": "1.2.9",
-  "notes": "Versión 1.2.9: Instalador nativo de actualizaciones para Android con descarga directa dentro de la app, barra de progreso en vivo y diálogo automático de instalación del sistema.",
-  "changelog": "Versión 1.2.9: Instalador nativo de actualizaciones para Android con descarga directa dentro de la app, barra de progreso en vivo y diálogo automático de instalación del sistema.",
-  "downloadUrlWindows": "https://github.com/unidosenladiversidad5656-ux/insajo_updates/releases/download/v1.2.9/INSAJO_Asistencia_V1.2.9_Windows.zip",
-  "windowsUrl": "https://github.com/unidosenladiversidad5656-ux/insajo_updates/releases/download/v1.2.9/INSAJO_Asistencia_V1.2.9_Windows.zip",
-  "downloadUrlAndroid": "https://github.com/unidosenladiversidad5656-ux/insajo_updates/releases/download/v1.2.9/INSAJO_Asistencia_V1.2.9.apk",
-  "androidUrl": "https://github.com/unidosenladiversidad5656-ux/insajo_updates/releases/download/v1.2.9/INSAJO_Asistencia_V1.2.9.apk"
+  "version": "1.3.0",
+  "notes": "VersiÃ³n 1.3.0: Ajustes visuales y responsivos para mÃ³vil, selector de fondos en cuadrÃ­cula, clarificaciÃ³n de alertas rojas en directorio con filtro por periodos y reinicio de base de datos con contraseÃ±a de administrador INSAJO 021322.",
+  "changelog": "VersiÃ³n 1.3.0: Ajustes visuales y responsivos para mÃ³vil, selector de fondos en cuadrÃ­cula, clarificaciÃ³n de alertas rojas en directorio con filtro por periodos y reinicio de base de datos con contraseÃ±a de administrador INSAJO 021322.",
+  "downloadUrlWindows": "https://github.com/unidosenladiversidad5656-ux/insajo_updates/releases/download/v1.3.0/INSAJO_Asistencia_V1.3.0_Windows.zip",
+  "windowsUrl": "https://github.com/unidosenladiversidad5656-ux/insajo_updates/releases/download/v1.3.0/INSAJO_Asistencia_V1.3.0_Windows.zip",
+  "downloadUrlAndroid": "https://github.com/unidosenladiversidad5656-ux/insajo_updates/releases/download/v1.3.0/INSAJO_Asistencia_V1.3.0.apk",
+  "androidUrl": "https://github.com/unidosenladiversidad5656-ux/insajo_updates/releases/download/v1.3.0/INSAJO_Asistencia_V1.3.0.apk"
 }
