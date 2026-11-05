@@ -1,9 +1,9 @@
 {
-  "version": "1.2.7",
-  "notes": "Versión 1.2.7: Monitoreo en tiempo real reforzado con detección inmediata de reconexión, latidos cada 30s, contador exclusivo para Administrador en la barra superior, corrección en visualización de fechas y visualizador de novedades mejorado.",
-  "changelog": "Versión 1.2.7: Monitoreo en tiempo real reforzado con detección inmediata de reconexión, latidos cada 30s, contador exclusivo para Administrador en la barra superior, corrección en visualización de fechas y visualizador de novedades mejorado.",
-  "downloadUrlWindows": "https://github.com/unidosenladiversidad5656-ux/insajo_updates/releases/download/v1.2.7/INSAJO_Asistencia_V1.2.7_Windows.zip",
-  "windowsUrl": "https://github.com/unidosenladiversidad5656-ux/insajo_updates/releases/download/v1.2.7/INSAJO_Asistencia_V1.2.7_Windows.zip",
-  "downloadUrlAndroid": "https://github.com/unidosenladiversidad5656-ux/insajo_updates/releases/download/v1.2.7/INSAJO_Asistencia_V1.2.7.apk",
-  "androidUrl": "https://github.com/unidosenladiversidad5656-ux/insajo_updates/releases/download/v1.2.7/INSAJO_Asistencia_V1.2.7.apk"
+  "version": "1.2.8",
+  "notes": "VersiÃ³n 1.2.8: ProtecciÃ³n y blindaje total de escaneos QR contra sobreescritura accidental, selecciÃ³n predeterminada de secciÃ³n para evitar vistas vacÃ­as y optimizaciones en la sincronizaciÃ³n en vivo.",
+  "changelog": "VersiÃ³n 1.2.8: ProtecciÃ³n y blindaje total de escaneos QR contra sobreescritura accidental, selecciÃ³n predeterminada de secciÃ³n para evitar vistas vacÃ­as y optimizaciones en la sincronizaciÃ³n en vivo.",
+  "downloadUrlWindows": "https://github.com/unidosenladiversidad5656-ux/insajo_updates/releases/download/v1.2.8/INSAJO_Asistencia_V1.2.8_Windows.zip",
+  "windowsUrl": "https://github.com/unidosenladiversidad5656-ux/insajo_updates/releases/download/v1.2.8/INSAJO_Asistencia_V1.2.8_Windows.zip",
+  "downloadUrlAndroid": "https://github.com/unidosenladiversidad5656-ux/insajo_updates/releases/download/v1.2.8/INSAJO_Asistencia_V1.2.8.apk",
+  "androidUrl": "https://github.com/unidosenladiversidad5656-ux/insajo_updates/releases/download/v1.2.8/INSAJO_Asistencia_V1.2.8.apk"
 }
