@@ -1,9 +1,9 @@
 {
-  "version": "1.2.8",
-  "notes": "Versión 1.2.8: Protección y blindaje total de escaneos QR contra sobreescritura accidental, selección predeterminada de sección para evitar vistas vacías y optimizaciones en la sincronización en vivo.",
-  "changelog": "Versión 1.2.8: Protección y blindaje total de escaneos QR contra sobreescritura accidental, selección predeterminada de sección para evitar vistas vacías y optimizaciones en la sincronización en vivo.",
-  "downloadUrlWindows": "https://github.com/unidosenladiversidad5656-ux/insajo_updates/releases/download/v1.2.8/INSAJO_Asistencia_V1.2.8_Windows.zip",
-  "windowsUrl": "https://github.com/unidosenladiversidad5656-ux/insajo_updates/releases/download/v1.2.8/INSAJO_Asistencia_V1.2.8_Windows.zip",
-  "downloadUrlAndroid": "https://github.com/unidosenladiversidad5656-ux/insajo_updates/releases/download/v1.2.8/INSAJO_Asistencia_V1.2.8.apk",
-  "androidUrl": "https://github.com/unidosenladiversidad5656-ux/insajo_updates/releases/download/v1.2.8/INSAJO_Asistencia_V1.2.8.apk"
+  "version": "1.2.9",
+  "notes": "VersiÃ³n 1.2.9: Instalador nativo de actualizaciones para Android con descarga directa dentro de la aplicaciÃ³n, barra de progreso en vivo y diÃ¡logo automÃ¡tico de instalaciÃ³n del sistema.",
+  "changelog": "VersiÃ³n 1.2.9: Instalador nativo de actualizaciones para Android con descarga directa dentro de la aplicaciÃ³n, barra de progreso en vivo y diÃ¡logo automÃ¡tico de instalaciÃ³n del sistema.",
+  "downloadUrlWindows": "https://github.com/unidosenladiversidad5656-ux/insajo_updates/releases/download/v1.2.9/INSAJO_Asistencia_V1.2.9_Windows.zip",
+  "windowsUrl": "https://github.com/unidosenladiversidad5656-ux/insajo_updates/releases/download/v1.2.9/INSAJO_Asistencia_V1.2.9_Windows.zip",
+  "downloadUrlAndroid": "https://github.com/unidosenladiversidad5656-ux/insajo_updates/releases/download/v1.2.9/INSAJO_Asistencia_V1.2.9.apk",
+  "androidUrl": "https://github.com/unidosenladiversidad5656-ux/insajo_updates/releases/download/v1.2.9/INSAJO_Asistencia_V1.2.9.apk"
 }
