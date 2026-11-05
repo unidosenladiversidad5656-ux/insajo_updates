@@ -1,7 +1,7 @@
 {
   "version": "1.2.9",
-  "notes": "VersiÃ³n 1.2.9: Instalador nativo de actualizaciones para Android con descarga directa dentro de la aplicaciÃ³n, barra de progreso en vivo y diÃ¡logo automÃ¡tico de instalaciÃ³n del sistema.",
-  "changelog": "VersiÃ³n 1.2.9: Instalador nativo de actualizaciones para Android con descarga directa dentro de la aplicaciÃ³n, barra de progreso en vivo y diÃ¡logo automÃ¡tico de instalaciÃ³n del sistema.",
+  "notes": "Versión 1.2.9: Instalador nativo de actualizaciones para Android con descarga directa dentro de la app, barra de progreso en vivo y diálogo automático de instalación del sistema.",
+  "changelog": "Versión 1.2.9: Instalador nativo de actualizaciones para Android con descarga directa dentro de la app, barra de progreso en vivo y diálogo automático de instalación del sistema.",
   "downloadUrlWindows": "https://github.com/unidosenladiversidad5656-ux/insajo_updates/releases/download/v1.2.9/INSAJO_Asistencia_V1.2.9_Windows.zip",
   "windowsUrl": "https://github.com/unidosenladiversidad5656-ux/insajo_updates/releases/download/v1.2.9/INSAJO_Asistencia_V1.2.9_Windows.zip",
   "downloadUrlAndroid": "https://github.com/unidosenladiversidad5656-ux/insajo_updates/releases/download/v1.2.9/INSAJO_Asistencia_V1.2.9.apk",
