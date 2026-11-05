@@ -1,7 +1,7 @@
 {
   "version": "1.2.8",
-  "notes": "VersiÃ³n 1.2.8: ProtecciÃ³n y blindaje total de escaneos QR contra sobreescritura accidental, selecciÃ³n predeterminada de secciÃ³n para evitar vistas vacÃ­as y optimizaciones en la sincronizaciÃ³n en vivo.",
-  "changelog": "VersiÃ³n 1.2.8: ProtecciÃ³n y blindaje total de escaneos QR contra sobreescritura accidental, selecciÃ³n predeterminada de secciÃ³n para evitar vistas vacÃ­as y optimizaciones en la sincronizaciÃ³n en vivo.",
+  "notes": "Versión 1.2.8: Protección y blindaje total de escaneos QR contra sobreescritura accidental, selección predeterminada de sección para evitar vistas vacías y optimizaciones en la sincronización en vivo.",
+  "changelog": "Versión 1.2.8: Protección y blindaje total de escaneos QR contra sobreescritura accidental, selección predeterminada de sección para evitar vistas vacías y optimizaciones en la sincronización en vivo.",
   "downloadUrlWindows": "https://github.com/unidosenladiversidad5656-ux/insajo_updates/releases/download/v1.2.8/INSAJO_Asistencia_V1.2.8_Windows.zip",
   "windowsUrl": "https://github.com/unidosenladiversidad5656-ux/insajo_updates/releases/download/v1.2.8/INSAJO_Asistencia_V1.2.8_Windows.zip",
   "downloadUrlAndroid": "https://github.com/unidosenladiversidad5656-ux/insajo_updates/releases/download/v1.2.8/INSAJO_Asistencia_V1.2.8.apk",
