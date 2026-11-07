@@ -1,10 +1,10 @@
 {
-  "version": "1.3.2",
+  "version": "1.3.3",
   "mandatory": true,
-  "notes": "Versión 1.3.2 (Actualización Crítica): Reparación del escáner de cámara QR en laptops Windows (calibración geométrica + motor de alto contraste), protección de primera hora de escaneo entre dispositivos y blindaje total en datos móviles/Wi-Fi.",
-  "changelog": "Versión 1.3.2 (Actualización Crítica): Reparación del escáner de cámara QR en laptops Windows (calibración geométrica + motor de alto contraste), protección de primera hora de escaneo entre dispositivos y blindaje total en datos móviles/Wi-Fi.",
-  "downloadUrlWindows": "https://github.com/unidosenladiversidad5656-ux/insajo_updates/releases/download/v1.3.2/INSAJO_Asistencia_V1.3.2_Windows.zip",
-  "windowsUrl": "https://github.com/unidosenladiversidad5656-ux/insajo_updates/releases/download/v1.3.2/INSAJO_Asistencia_V1.3.2_Windows.zip",
-  "downloadUrlAndroid": "https://github.com/unidosenladiversidad5656-ux/insajo_updates/releases/download/v1.3.2/INSAJO_Asistencia_V1.3.2.apk",
-  "androidUrl": "https://github.com/unidosenladiversidad5656-ux/insajo_updates/releases/download/v1.3.2/INSAJO_Asistencia_V1.3.2.apk"
+  "notes": "VersiÃ³n 1.3.3: Sonido de escaneo idÃ©ntico al de PC + vibraciÃ³n corta sincronizada y tarjeta visual de bienvenida en Android (con interruptor de vibraciÃ³n en Ajustes), eliminaciÃ³n de la ruedita de carga en Secciones y soporte verificado de doble escaneo MaÃ±ana + Tarde.",
+  "changelog": "VersiÃ³n 1.3.3: Sonido de escaneo idÃ©ntico al de PC + vibraciÃ³n corta sincronizada y tarjeta visual de bienvenida en Android (con interruptor de vibraciÃ³n en Ajustes), eliminaciÃ³n de la ruedita de carga en Secciones y soporte verificado de doble escaneo MaÃ±ana + Tarde.",
+  "downloadUrlWindows": "https://github.com/unidosenladiversidad5656-ux/insajo_updates/releases/download/v1.3.3/INSAJO_Asistencia_V1.3.3_Windows.zip",
+  "windowsUrl": "https://github.com/unidosenladiversidad5656-ux/insajo_updates/releases/download/v1.3.3/INSAJO_Asistencia_V1.3.3_Windows.zip",
+  "downloadUrlAndroid": "https://github.com/unidosenladiversidad5656-ux/insajo_updates/releases/download/v1.3.3/INSAJO_Asistencia_V1.3.3.apk",
+  "androidUrl": "https://github.com/unidosenladiversidad5656-ux/insajo_updates/releases/download/v1.3.3/INSAJO_Asistencia_V1.3.3.apk"
 }
